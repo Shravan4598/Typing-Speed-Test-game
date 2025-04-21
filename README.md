@@ -12,7 +12,7 @@ A graphical desktop application built using Python and Tkinter that allows users
 
 ## 📸 Screenshots
 
-![App Screenshot](screenshot.png) <!-- Add a real screenshot with this name or update path -->
+![App Screenshot](typing_speed_test_game.png) <!-- Add a real screenshot with this name or update path -->
 
 ## 🛠️ Built With
 
